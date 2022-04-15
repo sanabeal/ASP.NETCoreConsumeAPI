@@ -1,0 +1,28 @@
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\bin\Debug\net5.0\ASP.NETCoreRestAPI.Data.deps.json
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\bin\Debug\net5.0\ASP.NETCoreRestAPI.Data.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\bin\Debug\net5.0\ref\ASP.NETCoreRestAPI.Data.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\bin\Debug\net5.0\ASP.NETCoreRestAPI.Data.pdb
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\obj\Debug\net5.0\ASP.NETCoreRestAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\obj\Debug\net5.0\ASP.NETCoreRestAPI.Data.AssemblyInfoInputs.cache
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\obj\Debug\net5.0\ASP.NETCoreRestAPI.Data.AssemblyInfo.cs
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\obj\Debug\net5.0\ASP.NETCoreRestAPI.Data.csproj.CoreCompileInputs.cache
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\obj\Debug\net5.0\ASP.NETCoreRestAPI.Data.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\obj\Debug\net5.0\ref\ASP.NETCoreRestAPI.Data.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\obj\Debug\net5.0\ASP.NETCoreRestAPI.Data.pdb
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\bin\Debug\net5.0\ASP.NETCoreRestAPI.Data.runtimeconfig.json
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\bin\Debug\net5.0\ASP.NETCoreRestAPI.Data.runtimeconfig.dev.json
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\obj\Debug\net5.0\ASP.NETCoreRestAPI.Data.genruntimeconfig.cache
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\bin\Debug\net5.0\ASP.NETCoreRestAPI.Data.deps.json
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\bin\Debug\net5.0\ASP.NETCoreRestAPI.Data.runtimeconfig.json
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\bin\Debug\net5.0\ASP.NETCoreRestAPI.Data.runtimeconfig.dev.json
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\bin\Debug\net5.0\ASP.NETCoreRestAPI.Data.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\bin\Debug\net5.0\ref\ASP.NETCoreRestAPI.Data.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\bin\Debug\net5.0\ASP.NETCoreRestAPI.Data.pdb
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\obj\Debug\net5.0\ASP.NETCoreRestAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\obj\Debug\net5.0\ASP.NETCoreRestAPI.Data.AssemblyInfoInputs.cache
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\obj\Debug\net5.0\ASP.NETCoreRestAPI.Data.AssemblyInfo.cs
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\obj\Debug\net5.0\ASP.NETCoreRestAPI.Data.csproj.CoreCompileInputs.cache
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\obj\Debug\net5.0\ASP.NETCoreRestAPI.Data.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\obj\Debug\net5.0\ref\ASP.NETCoreRestAPI.Data.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\obj\Debug\net5.0\ASP.NETCoreRestAPI.Data.pdb
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI.Data\obj\Debug\net5.0\ASP.NETCoreRestAPI.Data.genruntimeconfig.cache

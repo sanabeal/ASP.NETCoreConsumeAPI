@@ -1,0 +1,226 @@
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\appsettings.json
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ASP.NETCoreConsumeAPI.exe
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ASP.NETCoreConsumeAPI.deps.json
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ASP.NETCoreConsumeAPI.runtimeconfig.json
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ASP.NETCoreConsumeAPI.runtimeconfig.dev.json
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ASP.NETCoreConsumeAPI.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ref\ASP.NETCoreConsumeAPI.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ASP.NETCoreConsumeAPI.pdb
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ASP.NETCoreConsumeAPI.Views.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ASP.NETCoreConsumeAPI.Views.pdb
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Humanizer.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.AssemblyInfoInputs.cache
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.AssemblyInfo.cs
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.csproj.CoreCompileInputs.cache
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.RazorAssemblyInfo.cache
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.RazorAssemblyInfo.cs
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\staticwebassets\ASP.NETCoreConsumeAPI.StaticWebAssets.Manifest.cache
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\staticwebassets\ASP.NETCoreConsumeAPI.StaticWebAssets.xml
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\scopedcss\bundle\ASP.NETCoreConsumeAPI.styles.css
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.TagHelpers.input.cache
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.TagHelpers.output.cache
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.RazorCoreGenerate.cache
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\Razor\Shared\_Layout.cshtml.g.cs
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\Razor\Shared\_ViewImports.cshtml.g.cs
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\Razor\Views\Employees\AddEmployee.cshtml.g.cs
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\Razor\Views\Employees\GetEmployee.cshtml.g.cs
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.RazorTargetAssemblyInfo.cache
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.RazorTargetAssemblyInfo.cs
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.Views.pdb
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.csproj.CopyComplete
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ref\ASP.NETCoreConsumeAPI.dll
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.pdb
+C:\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.genruntimeconfig.cache
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\appsettings.Development.json
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\appsettings.json
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ASP.NETCoreConsumeAPI.exe
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ASP.NETCoreConsumeAPI.deps.json
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ASP.NETCoreConsumeAPI.runtimeconfig.json
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ASP.NETCoreConsumeAPI.runtimeconfig.dev.json
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ASP.NETCoreConsumeAPI.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ref\ASP.NETCoreConsumeAPI.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ASP.NETCoreConsumeAPI.pdb
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ASP.NETCoreConsumeAPI.Views.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ASP.NETCoreConsumeAPI.Views.pdb
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Humanizer.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.AssemblyInfoInputs.cache
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.AssemblyInfo.cs
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.csproj.CoreCompileInputs.cache
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.RazorAssemblyInfo.cache
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.RazorAssemblyInfo.cs
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\staticwebassets\ASP.NETCoreConsumeAPI.StaticWebAssets.Manifest.cache
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\staticwebassets\ASP.NETCoreConsumeAPI.StaticWebAssets.xml
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\scopedcss\bundle\ASP.NETCoreConsumeAPI.styles.css
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.TagHelpers.input.cache
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.TagHelpers.output.cache
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.RazorCoreGenerate.cache
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\Razor\Shared\_Layout.cshtml.g.cs
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\Razor\Shared\_ViewImports.cshtml.g.cs
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\Razor\Views\Employees\AddEmployee.cshtml.g.cs
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\Razor\Views\Employees\GetEmployee.cshtml.g.cs
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.RazorTargetAssemblyInfo.cache
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.RazorTargetAssemblyInfo.cs
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.Views.pdb
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.csproj.CopyComplete
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ref\ASP.NETCoreConsumeAPI.dll
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.pdb
+G:\API & UI Project core-employee\ASP.NETCoreConsumeAPI\ASP.NETCoreConsumeAPI\obj\Debug\net5.0\ASP.NETCoreConsumeAPI.genruntimeconfig.cache

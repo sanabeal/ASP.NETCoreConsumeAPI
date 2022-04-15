@@ -1,0 +1,126 @@
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\appsettings.json
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\ASP.NETCoreRestAPI.exe
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\ASP.NETCoreRestAPI.deps.json
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\ASP.NETCoreRestAPI.runtimeconfig.json
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\ASP.NETCoreRestAPI.runtimeconfig.dev.json
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\ASP.NETCoreRestAPI.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\ref\ASP.NETCoreRestAPI.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\ASP.NETCoreRestAPI.pdb
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.AssemblyInfoInputs.cache
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.AssemblyInfo.cs
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.csproj.CoreCompileInputs.cache
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\staticwebassets\ASP.NETCoreRestAPI.StaticWebAssets.Manifest.cache
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\staticwebassets\ASP.NETCoreRestAPI.StaticWebAssets.xml
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\scopedcss\bundle\ASP.NETCoreRestAPI.styles.css
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.RazorTargetAssemblyInfo.cache
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.csproj.CopyComplete
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ref\ASP.NETCoreRestAPI.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.pdb
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.genruntimeconfig.cache
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Humanizer.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\ASP.NETCoreRestAPI.Data.dll
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\ASP.NETCoreRestAPI.Data.pdb
+C:\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.csprojAssemblyReference.cache
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\appsettings.Development.json
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\appsettings.json
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\ASP.NETCoreRestAPI.exe
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\ASP.NETCoreRestAPI.deps.json
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\ASP.NETCoreRestAPI.runtimeconfig.json
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\ASP.NETCoreRestAPI.runtimeconfig.dev.json
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\ASP.NETCoreRestAPI.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\ref\ASP.NETCoreRestAPI.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\ASP.NETCoreRestAPI.pdb
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Humanizer.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\ASP.NETCoreRestAPI.Data.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\bin\Debug\net5.0\ASP.NETCoreRestAPI.Data.pdb
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.csproj.AssemblyReference.cache
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.AssemblyInfoInputs.cache
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.AssemblyInfo.cs
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.csproj.CoreCompileInputs.cache
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\staticwebassets\ASP.NETCoreRestAPI.StaticWebAssets.Manifest.cache
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\staticwebassets\ASP.NETCoreRestAPI.StaticWebAssets.xml
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\scopedcss\bundle\ASP.NETCoreRestAPI.styles.css
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.RazorTargetAssemblyInfo.cache
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.csproj.CopyComplete
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ref\ASP.NETCoreRestAPI.dll
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.pdb
+G:\API & UI Project core-employee\ASP.NETCoreRestAPI\ASP.NETCoreRestAPI\obj\Debug\net5.0\ASP.NETCoreRestAPI.genruntimeconfig.cache
